@@ -4,12 +4,12 @@
 Проект создан и запускается. Предоставлен скриншот работающего приложения с текстом, кнопкой и контейнером, которые размещены в Column. 
 Также есть 2 Icon, которые размещены в Row внутри Column.
 
-<img width="422" height="872" alt="Снимок экрана 2025-09-21 163016" src="https://github.com/user-attachments/assets/a7a03a2a-e904-4b1b-a46d-e9396891c52d" />
+<img width="322" height="772" alt="Снимок экрана 2025-09-21 163016" src="https://github.com/user-attachments/assets/a7a03a2a-e904-4b1b-a46d-e9396891c52d" />
 
 # Контрольная точка 2
 Предоставлен скриншот с измененными цветами и стилями текста, кнопки и контейнера.
 
-<img width="411" height="869" alt="image" src="https://github.com/user-attachments/assets/eced0ef3-bac7-4192-8450-0cfe3423854b" />
+<img width="311" height="769" alt="image" src="https://github.com/user-attachments/assets/eced0ef3-bac7-4192-8450-0cfe3423854b" />
 
 В этом прилодении использовались следующие виджеты: Column, Row, Padding, SizedBox, AppBar, Text, Container, Icon, TextStyle и другие.
 Стили и цвета элементов были поменяны с помощью кода. Например, в этом фрагменте кода меняются стили и цвет текста:
