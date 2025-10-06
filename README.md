@@ -10,7 +10,7 @@
 Список заметок
 
 Отображает список заметок с помощью ListView.builder. Каждая заметка показывается в карточке с заголовком и текстом
-```
+``` dart
 : ListView.builder(
                         padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 16),
                         itemCount: _filteredNotes.length,
