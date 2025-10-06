@@ -76,7 +76,7 @@
 Добавление новой заметки
 
 Открывает экран создания новой заметки
-```
+``` dart
   Future<void> _addNote() async {
     final newNote = await Navigator.push<Note>(
       context,
@@ -95,7 +95,7 @@ https://github.com/user-attachments/assets/6c40bfa9-d6b8-40b9-8483-b8c1080c8268
 Редактирование заметки
 
 Открывает экран редактирования существующей заметки
-```
+``` dart
 Future<void> _editNote(Note note) async {
     final updatedNote = await Navigator.push<Note>(
       context,
@@ -119,7 +119,7 @@ https://github.com/user-attachments/assets/8e1f25f8-28b3-4737-9771-caed9a7b72e6
 Удаление заметки с помощью свапа
 
 Позволяет удалить заметку свайпом влево
-```
+``` dart
 return Dismissible(
                             key: ValueKey(note.id),
                             direction: DismissDirection.endToStart,
@@ -138,7 +138,7 @@ https://github.com/user-attachments/assets/e1389f8e-d6d5-426f-8880-213491882ec8
 Удаление заметки с помощью кнопки
 
 Кнопка корзины в правом углу каждой заметки
-```
+``` dart
 void _deleteNote(Note note) {
     setState(() => _notes.removeWhere((n) => n.id == note.id));
 ```
