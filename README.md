@@ -40,3 +40,14 @@
 
 Заметку можно редактировать
 
+<img width="391" height="847" alt="Снимок экрана 2025-12-15 165238" src="https://github.com/user-attachments/assets/b747711a-fe62-460d-8516-3a2ac87bd8ea" />
+
+Заметку можно удалить
+
+<img width="380" height="835" alt="Снимок экрана 2025-12-15 165415" src="https://github.com/user-attachments/assets/e8720061-a0e6-47fc-9ea4-3b3719179655" />
+
+## Дополнительное задание (по желанию, +1 балл)
+Добавление аутентификации
+``` pubspec.yaml
+firebase_auth: ^4.6.1
+```
