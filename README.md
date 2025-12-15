@@ -18,14 +18,14 @@
 ### Создание проекта Firebase и привязка FlutterFire
 В проекте есть firebase_options.dart, сборка проходит без ошибок.
 
-<img width="1764" height="959" alt="image" src="https://github.com/user-attachments/assets/b9a5b741-1fd7-4366-ad68-6fba6ddd536f" />
+<img width="1550" height="949" alt="Снимок экрана 2025-12-15 161227" src="https://github.com/user-attachments/assets/51936633-c59c-4f9a-a44d-b7cd5931e377" />
 
 ## Контрольная точка 3
-### 
+Приложение запускается без ошибок и не падает на старте.
 
 
 
 ## Контрольная точка 4
-### 
+Вы можете создавать документы через консоль Firebase.
 
 
