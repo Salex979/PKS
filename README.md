@@ -23,9 +23,20 @@
 ## Контрольная точка 3
 Приложение запускается без ошибок и не падает на старте.
 
+<img width="1535" height="889" alt="Снимок экрана 2025-12-15 162031" src="https://github.com/user-attachments/assets/616185ea-203e-4528-8eed-dc99b03323d1" />
 
 
 ## Контрольная точка 4
 Вы можете создавать документы через консоль Firebase.
 
+<img width="1262" height="847" alt="Снимок экрана 2025-12-15 162532" src="https://github.com/user-attachments/assets/eaa787a6-a047-49ed-8c75-5acae0d5a104" />
+<img width="1470" height="744" alt="Снимок экрана 2025-12-15 163036" src="https://github.com/user-attachments/assets/326756d0-8b6c-44da-961c-ac05e58352d7" />
+
+
+## Контрольная точка 5
+Добавление заметки создаёт документ в notes
+
+<img width="397" height="855" alt="Снимок экрана 2025-12-15 163844" src="https://github.com/user-attachments/assets/662f9a54-cb18-4ba0-b36f-75193d7a332a" />
+
+Заметку можно редактировать
 
