@@ -25,6 +25,10 @@
 
 <img width="328" height="387" alt="image" src="https://github.com/user-attachments/assets/c02ece78-f9e2-4907-8a3f-3aef0ad67d0e" />
 
+<img width="397" height="240" alt="Снимок экрана 2025-12-17 000503" src="https://github.com/user-attachments/assets/48cad3c8-4dad-44f0-8f16-cf78bad0102a" />
 
 ## Контрольная точка 5
-### 
+### Можно удалить заметку
+
+<img width="411" height="696" alt="Снимок экрана 2025-12-17 000738" src="https://github.com/user-attachments/assets/21fb8594-8a41-453c-8793-c3a9f064836a" />
+
