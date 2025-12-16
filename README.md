@@ -18,10 +18,13 @@
 ## Контрольная точка 3
 ### Список заметок
 
-
+<img width="409" height="716" alt="Снимок экрана 2025-12-17 000220" src="https://github.com/user-attachments/assets/07507ae4-103d-4538-a0a5-fe16408cbb20" />
 
 ## Контрольная точка 4
-### 
+### Можно редактирвоать заметку
+
+<img width="328" height="387" alt="image" src="https://github.com/user-attachments/assets/c02ece78-f9e2-4907-8a3f-3aef0ad67d0e" />
+
 
 ## Контрольная точка 5
 ### 
