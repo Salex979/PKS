@@ -1,16 +1,58 @@
-# movie_watchlist
+# Отчет по проекту
+## Полякова София Александровна, ЭФБО-10-23
 
-A new Flutter project.
+### Цель:
+- Разработка мобильного приложения для создания и управления персональной коллекцией фильмов с возможностью отслеживания статуса просмотра, оценкой и синхронизацией данных между устройствами.
 
-## Getting Started
+MovieWatchlist - это кроссплатформенное мобильное приложение на Flutter для киноманов, позволяющее:
+- Сохранять фильмы в списки "Хочу посмотреть" и "Просмотрено"
+- Добавлять рейтинги и заметки к каждому фильму
+- Синхронизировать коллекцию через облачное хранилище
+- Быстро менять статус просмотра
 
-This project is a starting point for a Flutter application.
+## Технологический стек:
+- Frontend: Flutter (Dart)
+- Backend: Firebase (Authentication + Firestore)
 
-A few resources to get you started if this is your first Flutter project:
+## Реализованный функционал
+1. Аутентификация пользователей (Регистрация по email и паролю, вход в систему, выход из аккаунта, сохранение сессии)
+2. Управление фильмами (Добавление нового фильма, просмотр списка и деталей фильма, редактирование информации о фильме, удаление фильмов из коллекции)
+3. Основные возможности (Добавление фильмов с постером, описанием, годом выпуска и оценками, разделение на "Просмотренные" и "К просмотру", поиск по названию и описанию, cинхронизация с облаком Firebase)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Экран авторизации
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="398" height="853" alt="Снимок экрана 2025-12-16 190347" src="https://github.com/user-attachments/assets/a37337e2-7ad0-46c1-bdff-395b5a3a15b4" />
+
+## Главный экран со списком фильмов
+
+<img width="403" height="868" alt="Снимок экрана 2025-12-16 190452" src="https://github.com/user-attachments/assets/73a207d1-9d97-488f-88ff-3cac563d4c88" />
+
+## Карточка фильма
+
+<img width="404" height="862" alt="Снимок экрана 2025-12-16 201734" src="https://github.com/user-attachments/assets/c729119e-ca5f-49ec-bb03-9fb26123e6f6" />
+
+## Экран добавления/редактирования
+
+<img width="405" height="858" alt="Снимок экрана 2025-12-16 201803" src="https://github.com/user-attachments/assets/8880ae4e-3ffa-43f8-bf99-7b400c663e77" />
+<img width="400" height="858" alt="Снимок экрана 2025-12-16 192119" src="https://github.com/user-attachments/assets/40b386c6-675f-4d69-9833-8b062d60c2a1" />
+
+<img width="403" height="859" alt="Снимок экрана 2025-12-16 201857" src="https://github.com/user-attachments/assets/feb5907e-4494-45d7-a77d-45e2f86528b4" />
+
+## Удаление карточки
+
+<img width="402" height="861" alt="Снимок экрана 2025-12-16 192151" src="https://github.com/user-attachments/assets/8014cc60-cbd1-40e0-b907-65dfd3fa1d2b" />
+<img width="403" height="868" alt="Снимок экрана 2025-12-16 190452" src="https://github.com/user-attachments/assets/362913d0-644a-4701-a16d-87067cbb7991" />
+
+## Поиск 
+
+<img width="403" height="865" alt="Снимок экрана 2025-12-16 192846" src="https://github.com/user-attachments/assets/48a25ba1-676d-4149-b94e-cb9c152d9276" />
+
+## База данных на Firebase
+
+<img width="1714" height="911" alt="Снимок экрана 2025-12-16 201951" src="https://github.com/user-attachments/assets/58fba518-8656-4593-a756-010a677a6591" />
+<img width="1688" height="895" alt="Снимок экрана 2025-12-16 202012" src="https://github.com/user-attachments/assets/ba588291-49a8-4085-ad93-99070a1c7027" />
+
+## Пользователь на Firebase
+<img width="1724" height="664" alt="Снимок экрана 2025-12-16 202028" src="https://github.com/user-attachments/assets/736d56d7-6e7c-465f-9c56-0393f84bd261" />
+
+Проект успешно реализован в соответствии с требованиями. Приложение готово к использованию и позволяет эффективно управлять личной коллекцией фильмов. 
