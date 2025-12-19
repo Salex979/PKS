@@ -12,6 +12,7 @@
 ### Скриншоты приложения в RuStore
 
 <img width="1280" height="613" alt="image" src="https://github.com/user-attachments/assets/0ba9c21b-a448-418d-8bfa-f0458cec919f" />
+<img width="1913" height="907" alt="Снимок экрана 2025-12-19 051041" src="https://github.com/user-attachments/assets/fe6bbbf9-a143-4ed3-a793-73c5ec82c90a" />
 
 
 ## Контрольная точка 2
