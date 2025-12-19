@@ -24,12 +24,3 @@
 ### Главный экран
 
 <img width="452" height="1012" alt="image" src="https://github.com/user-attachments/assets/df753672-581c-46ef-9daf-dc61cb113fa9" />
-
-
-## Контрольная точка 4
-### 
-
-
-
-## Контрольная точка 5
-###
